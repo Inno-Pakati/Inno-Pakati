@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Inno-Pakati
+- 👋 Hi, I’m @Innocentia Pakati
 - 👀 I’m interested in Phyon and SQL
-- 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on projects to improve my skills
 - 📫 How to reach me .... will inform you later
 
